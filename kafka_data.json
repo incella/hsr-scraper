@@ -1,0 +1,13 @@
+{
+  "name": "Bronya",
+  "best_relic_set": "Prisoner in Deep Confinement",
+  "main_stats": {
+    "body": "ATK%",
+    "feet": "Speed"
+  },
+  "best_planar_set": "Firmament Frontline: Glamoth",
+  "planar_stats": {
+    "sphere": "Lightning DMG > ATK%",
+    "rope": "ATK%"
+  }
+}
