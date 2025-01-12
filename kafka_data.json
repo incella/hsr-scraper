@@ -1,0 +1,16 @@
+{
+  "name": "Kafka",
+  "best_relic_set": "Prisoner in Deep Confinement",
+  "main_stats": {
+    "body": "ATK%",
+    "feet": "Speed"
+  },
+  "best_planar_set": "Firmament Frontline: Glamoth",
+  "planar_stats": {
+    "sphere": "Lightning DMG > ATK%",
+    "rope": "ATK%"
+  },
+  "priority_substats": "SPD (breakpoint) = EHR (Until Cap) >  ATK% > Break Effect",
+  "tier": "T1.5",
+  "role": "SPECIALIST"
+}
